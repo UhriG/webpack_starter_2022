@@ -26,4 +26,4 @@ npm run build
 
 ### Listo
 
-ya estas listo para seguir desarrollando en js utilizando webpack con esta configuración inical.
+ya estas listo para seguir desarrollando en js utilizando webpack con esta configuración inicial.
