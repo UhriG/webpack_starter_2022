@@ -4,20 +4,26 @@
 
 #
 
-### Primer paso clonar el repositorio
+### Primer paso:
 
-#
+clonar el repositorio
 
-### Segundo paso: Instalar dependencias de Node, abrir la carpeta y ejecutar en consola el siguiente comando:
+### Segundo paso:
+
+Instalar dependencias de Node, abrir la carpeta y ejecutar en consola el siguiente comando:
 
 ```
 npm init
 ```
 
-### Tercer paso: Ejecutar el siguiente comando en consola para generar nuestro proyecto
+### Tercer paso:
+
+Ejecutar el siguiente comando en consola para generar nuestro proyecto
 
 ```
 npm run build
 ```
 
-### Listo, ya estas listo para seguir desarrollando en js utilizando webpack con esta configuración inical.
+### Listo
+
+ya estas listo para seguir desarrollando en js utilizando webpack con esta configuración inical.
