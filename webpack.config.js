@@ -9,6 +9,10 @@ module.exports = {
 		clean: true,
 	},
 
+	devServer: {
+		watchFiles: ['src/*.html'],
+	},
+
 	module: {
 		rules: [
 			{
